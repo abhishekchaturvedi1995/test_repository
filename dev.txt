@@ -1,4 +1,10 @@
 hello
 pushing to development branch
 
+<<<<<<< HEAD
 committed by abhiashu
+=======
+
+pushed - abhiashu
+to be pulled- abhishek
+>>>>>>> development

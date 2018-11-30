@@ -2,5 +2,10 @@ hello
 pushing to development branch
 
 
+<<<<<<< HEAD
 
 pushed by abhiashu
+=======
+pushed - abhiashu
+to be pulled- abhishek
+>>>>>>> development
